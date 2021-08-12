@@ -75,7 +75,7 @@ http://103.205.133.19/hls/jamunatv.m3u8
 http://103.205.133.19/hls/deeptotv.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/23fbfa70-acbe-11eb-bb00-ab379c0b6201/1599776/286010360.png" group-title="📺 ʟᴏᴄᴀʟ ʙᴀɴɢʟᴀ ᴛᴠ 📺", DEEPTO TV HD
 http://103.43.148.202:1931/iptv/deeptotv.stream/chunks.m3u8
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/23fbfa70-acbe-11eb-bb00-ab379c0b6201/1599776/286010360.png" group-title="📺 ʟᴏᴄᴀʟ ʙᴀɴɢʟᴀ ᴛᴠ 📺", DEEPTO TV HD
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/23fbfa70-acbe-11eb-bb00-ab379c0b6201/1599776/286010360.png" group-title="📺 ʟᴏᴄᴀʟ ʙᴀɴɢʟᴀ ᴛᴠ 📺", DEEPTO TV FHD
 http://103.81.104.118/hls/dipto.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/23fbfa70-acbe-11eb-bb00-ab379c0b6201/1599776/286010384.png" group-title="📺 ʟᴏᴄᴀʟ ʙᴀɴɢʟᴀ ᴛᴠ 📺", Asian TV
 http://103.205.133.19/hls/asiantv.m3u8
