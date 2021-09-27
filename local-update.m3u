@@ -3595,3 +3595,7 @@ https://sitechnologyltd.xyz/Official_Stresming/BDLive_1/ICCSports/Live_TV_Premiu
 https://sitechnologyltd.xyz/Official_Stresming/BDLive_2/ICCSports/Live_TV_Premium.m3u8
 #EXTINF: -1 group-title="SI Technology Ltd.", 111
 localiptv.xyz/gtv.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/PW9hRDa.png" group-title="Internet TV", Jamai Badal
+
+http://10.16.100.245/ftps2d2/Movies/Bangla%20(Kolkata)/Jamai%20Badal%20(2019)%201080p%20WEBDL.mkv
